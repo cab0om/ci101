@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HandOfCards()
+comment1.params=cardToChange
+comment1.target=void\ changeCard(int)
+comment2.params=
+comment2.target=java.lang.String\ showHand()
+comment3.params=
+comment3.target=int\ getFirstPoints()
+comment4.params=
+comment4.target=int\ getPoints()
+numComments=5

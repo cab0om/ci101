@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name2\ desc\ weight2
+comment0.target=Item(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ The\ mutator\ sets\ the\ name,\ the\ description\ and\ weight\ of\ item.\r\n\ @param\ name\ \=\ name\ of\ item\r\n\ @param\ description\ \=\ description\ of\ item\r\n\ @param\ weight\ \=\ weight\ of\ item\r\n
+comment1.params=
+comment1.target=java.lang.String\ getItemName()
+comment1.text=\r\n\ @return\ name\ of\ item\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemDesc()
+comment2.text=\r\n\ @return\ description\ of\ item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemWeight()
+comment3.text=\r\n\ @return\ weight\ of\ item\r\n
+numComments=4

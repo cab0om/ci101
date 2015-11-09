@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DeckOfCards()
+comment1.params=
+comment1.target=void\ shuffleDeck()
+comment2.params=
+comment2.target=int\ getCard()
+comment3.params=
+comment3.target=int\ getSuit()
+numComments=4
